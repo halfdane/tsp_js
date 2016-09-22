@@ -18,8 +18,8 @@ I am not sure if it were okay to straightly include the code from there, so plea
 
 For Live-Demos, explanations (in german) and examples on how to use, see 
 
-- http://halfdane.github.io/2014/01/31/tsp_greedy/
-- http://halfdane.github.io/2014/01/19/tsp_evolution/
-- http://halfdane.github.io/2013/12/01/annealing/
+- http://halfdane.github.io/articles/2014-01-31-tsp_greedy/
+- http://halfdane.github.io/articles/2014-01-19-tsp_evolution/
+- http://halfdane.github.io/articles/2013-12-01-annealing/
 
 The code is available under the GPLv3, see the LICENSE file.
